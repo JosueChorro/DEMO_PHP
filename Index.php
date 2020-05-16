@@ -6,6 +6,6 @@
     <title>Practica</title>
 </head>
 <body>
-    <h5>Github Funciona plox</h5>
+    <h5>Github Funciona :D</h5>
 </body>
 </html>
